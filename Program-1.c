@@ -2,8 +2,8 @@
 //OUTPUT: You entered: 5
 #include <stdio.h>
 int main()        // correct the code
-{   
-    int number;
+{
+  int number;
    
     printf("Enter the integer: \n");    // Correct the code
     
